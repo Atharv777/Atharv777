@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Atharv varshney.
 - 👀 I love working on React.js and Firebase.
-- 🌱 I’m currently mastering Node.js
+- 🌱 I’m currently learning **Solidity**. 
 - 💞️ I’m looking to collaborate on React.js projects.
 - 📫 You can connect with me via [Mail](mailto:atharvvarshney07@gmail.com) OR [Linked In](https://www.linkedin.com/in/atharv-varshney)
 
