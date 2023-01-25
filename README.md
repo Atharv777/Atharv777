@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a frontend developer, in love with React.js<br>🌱 I’m currently learning Solidity.<br>👯 I’m looking to collaborate on Web3 projects.<br>💬 Ask me about Frontend technologies and chrome extensions
+💻 I am a Frontend developer, in love with React.js<br>🌱 I’m currently learning Solidity.<br>👯 I’m looking to collaborate on Web3 projects.<br>💬 Ask me about Frontend technologies and chrome extensions
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv777&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atharv777&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=atharv777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -23,3 +23,5 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AtharvVarshney) 
+
+ 
