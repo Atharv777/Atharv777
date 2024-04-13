@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a Full-Stack Web3 developer<br>🌱 I’m currently learning Move on Aptos ecosystem.<br>👯 I’m looking to collaborate on Web3 projects.<br>💬 Ask me about Frontend technologies, Blockchain and chrome extensions
+💻 I am a Full-Stack Web3 developer<br>🌱 I’m currently learning about blockchain ecosystem.<br>👯 I’m looking to collaborate on Web3 projects.<br>💬 Ask me about Frontend technologies, Blockchain and chrome extensions
 
 
 ## 🌐 Socials:
